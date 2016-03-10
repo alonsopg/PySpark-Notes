@@ -1,11 +1,11 @@
 ----------------------------------------------------------------
-Wed Mar 09 14:00:10 CST 2016:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0153-5cf7-1730-00002c1868c8 
-on database directory /Users/user/Jupyter/ml_notes/PysparkNotes/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@5c9abcb6 
+Wed Mar 09 18:56:00 CST 2016:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0153-5e05-ee16-00002bd44038 
+on database directory /Users/user/Jupyter/ml_notes/PySpark-Notes/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@75f8dcc2 
 Loaded from file:/usr/local/Cellar/apache-spark/1.5.1/libexec/lib/spark-assembly-1.5.1-hadoop2.6.0.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_60-b27
-user.dir=/Users/user/Jupyter/ml_notes/PysparkNotes
+user.dir=/Users/user/Jupyter/ml_notes/PySpark-Notes
 os.name=Mac OS X
 os.arch=x86_64
 os.version=10.11.3
